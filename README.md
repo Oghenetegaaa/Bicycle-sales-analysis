@@ -8,7 +8,8 @@ I conducted a comprehensive analysis of a bicycle sales data to uncover valuable
 ![Screenshot (5)](https://github.com/user-attachments/assets/1b57c052-606d-4060-90e6-d14e3d89f727)
 
 ## Data Cleaning
--Create a duplicate of the dateset in other to still have the original dataset
+-
+Create a duplicate of the dateset in other to still have the original dataset
 Removed duplicates from the dataset
 Standardized the column
 Created a column to show the age bracket this was done with the use of IF statements
