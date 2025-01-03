@@ -15,19 +15,32 @@ I conducted a comprehensive analysis of a bicycle sales data to uncover valuable
 - Created a column to show the age bracket this was done with the use of IF statements
 
 ## Pivot Tables
-1 Average income per gender
+1. Average income per gender
   How does the income of male and female affect their purchase of bicycle?
-  - Pivot table;Rows:Gender,Values:Average of Income,Columns: Purchased Bike
+  - Pivot table; Rows:Gender, Values:Average of Income, Columns:Purchased Bike
 
-2 Age brackets per purchase
+2. Age brackets per purchase
   How does the age of customers affect their choice of purchase of bicycle?
-  - Pivot table;Rows:Age Brackets,Values:Sum of income,Columns:Purchased Bike
+  - Pivot table; Rows:Age Brackets, Values:Sum of income, Columns:Purchased Bike
 
-3 Income per commute distance
+3. Income per commute distance
   How does commmute distance affect the purchasing power of customers buying 
   bicycles?
- - PIvot table;Row:Commute Distance,Columns:Purchased Bike,Values:Sum of 
+ - PIvot table; Row:Commute Distance, Columns:Purchased Bike, Values:Sum of 
   income
+
+## DASHBOARD
+
+![Screenshot (8)](https://github.com/user-attachments/assets/71b4898b-cced-407d-b062-4b43e050b4ab)
+
+## Slicers
+TO filter the dashboard based of different conditions
+- Gender
+- Marital Status
+- Education
+
+## Key insights
+1.
 
 
 
