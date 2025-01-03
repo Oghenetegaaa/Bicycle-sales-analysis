@@ -1,7 +1,7 @@
 # Bicycle Sales Analysis Project
 ## Introduction
 
-I conducted a comprehensive analysis of a bicycle sales data to uncover valuable insights that will be used to inform the business to make beter decisions.This project focuses on examining the relationshiip between the customer demographics and how it enhances their decision of bicycle purchase. At the end of this analysis a visualization was done to show trends, patters and insights.
+A comprehensive analysis of a bicycle sales dataset to uncover valuable insights that will be used to inform the business to make beter decisions.This project focuses on examining the relationshiip between the customer demographics and how it enhances their decision of bicycle purchase. At the end of this analysis a visualization was done to show trends, patters and insights.
 
 ## Screenshot of dateset
 
@@ -34,13 +34,23 @@ I conducted a comprehensive analysis of a bicycle sales data to uncover valuable
 ![Screenshot (8)](https://github.com/user-attachments/assets/71b4898b-cced-407d-b062-4b43e050b4ab)
 
 ## Slicers
-TO filter the dashboard based of different conditions
+To filter the dashboard based of different conditions
 - Gender
 - Marital Status
 - Education
 
 ## Key insights
-1.
+1. Average income per purchase
+   - Men earn higher incomes that women on average.The data suggests that men are more likely to purchase bicycle as their income increases, whereas women's purchasing behaviour is less correlated with incomme.
+   - Recommendations; Focus marketing efforts on high-income men, as they are more likely to make purchase and also providing premium bicycles as a status symbol,appealing to men's desire for luxury.
+
+2. Age brackets per purcahase
+   - Middle age brackets earn the most and make the most purchases hence, they are the target audience.The old age income, older individuals with higher incomes make fewer purchases than those with lower incomes who makes more purchases. Same thing goes for the young age brackets
+   - Recommendations; Since the middle age is the target audience the market shoule be focused towards products that suit this age brackets as they arer most likely to make more purchases. Also the needs of older and younger age brackets should be considered so they would not be left out and to maximize sales in all areas.
+
+3. Income per commuter distance
+   - 
+
 
 
 
