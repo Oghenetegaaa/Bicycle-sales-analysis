@@ -50,7 +50,7 @@ To filter the dashboard based of different conditions
 
 3. Income per commuter distance
    - Purchases increased for commute distance less than 10 miles. While for longer distances the purchase was lower.
-   - Recommendeations; Since the customers with shorter distances buy more bicycle, the avalability of bicycle that suits their commute distance should be ensured in larger quantities. Also, bicycles for customers who commute longer distances should also be made available (like electric bicycle)  in minimal quantities to meet the demands of this particular customers. This creates an equilibrum whilst also maximazing sales.
+   - Recommendations; Since the customers with shorter distances buy more bicycle, the avalability of bicycle that suits their commute distance should be ensured in larger quantities. Also, bicycles for customers who commute longer distances should also be made available (like electric bicycle)  in minimal quantities to meet the demands of this particular customers. This creates an equilibrum whilst also maximazing sales.
 
 
 
